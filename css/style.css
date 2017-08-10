@@ -1,0 +1,23 @@
+@charset "utf-8";
+.wrapper {
+    width: 100%;
+    background-image: url("../images/wrap-bg.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 100% auto;
+    overflow: hidden;
+}
+.btn-box {
+    margin-top: 10.89rem;
+    text-align: center;
+}
+.btn-box .jump-btn {
+    display: inline-block;
+    width: 6.05rem;
+    height: 1.79rem;
+    background-image: url("../images/jump-btn.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 100% auto;
+
+}
